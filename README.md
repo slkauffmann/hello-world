@@ -1,2 +1,3 @@
 # hello-world
-My first GIT repository
+
+My name is Sidney
